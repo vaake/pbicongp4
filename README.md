@@ -1,2 +1,2 @@
 # pbicongp4
-PluginBrowser Icons für GP4
+PluginBrowser Icons for GP4
